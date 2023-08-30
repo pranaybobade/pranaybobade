@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Bobade</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alt="background" width="400" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
+<img align="right" alt="background" width="350" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaybobade&label=Profile%20views&color=0e75b6&style=flat" alt="pranaybobade" /> </p>
 
